@@ -1,0 +1,122 @@
+.contact-flex-sub 
+{
+    width: 70%;
+}
+
+.contact-flex 
+{
+  display: flex;
+  align-items: center;
+  gap: 8vh;
+  margin-left: 400px;
+
+}
+
+.logo-class-display 
+{
+    display: flex;
+    align-items: center;
+    gap: 6vh;
+  
+}
+.contact-text 
+{
+   
+    width: 70px;
+    height: 5vh;
+    padding: 4px 10px;
+    border: 1px solid #098A5B;
+}
+
+
+.img-size 
+{
+    width: 18px;
+}
+
+.text-sub-design 
+{
+    padding: 5rem 0;
+    width: 85%;
+    line-height: 8vh;
+}
+.small-text 
+{
+    color: #098A5B;
+}
+.digital-h2 
+{
+    font-size: 3rem;
+    width: 350px;
+    margin: 0;
+}
+.btn-btn-started 
+{
+    padding: 2vh 2rem;
+    margin-top: 4vh;
+    border: 1px solid #098A5B;
+    background-color: transparent;
+    color:  #098A5B;;
+}
+
+.project-class-sub-flex
+{
+
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 100%;
+ gap: 2vh;
+ padding: 0 3rem;
+
+
+}
+.project-class
+{
+    background-color: #313131;
+    padding: 0 1rem;
+     width: 300px;
+     line-height: 3vh;
+     padding: 1px 1rem;
+     height: auto;
+}
+.project-sub-class 
+{
+    
+    margin: 0;
+    padding: 4vh 0;
+}
+.myStyle  
+{
+    margin: 0;
+    color: #000000;
+}
+.h2-text h2
+{
+   margin-top: 2vh;
+}
+.h2-text small 
+{
+    margin-top: 3vh;
+
+}
+.border {
+   
+    width: 70px;
+    margin: 0;
+    margin-top: 1vh;
+}
+.border p 
+{
+    border-bottom:2px solid #098A5B;
+ 
+} 
+
+/* @media screen and (max-width :  12000px) {
+    .contact-flex 
+{
+  margin: 0;
+
+}
+}
+*/
