@@ -4,7 +4,7 @@ const Aboutus = ({
   image1,
   image2,
   image3,
-  text_decription,
+  text_description,
   description,
 }) => {
   const about = [
