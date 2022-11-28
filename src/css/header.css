@@ -1,0 +1,17 @@
+/* .header-img-container 
+{
+  background-image: url("../../public/image/Rectangle\ 3.png");
+  background-repeat: no-repeat;
+  height: 100vh;
+} */
+.main-container 
+{
+  width : 90%;
+}
+.flex-linker 
+{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 4vh;
+}
