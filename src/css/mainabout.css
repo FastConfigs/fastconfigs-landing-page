@@ -1,0 +1,134 @@
+.main-contoller {
+  width: 80%;
+}
+.about-us {
+  line-height: 4vh;
+  width: 100%;
+}
+.color-p-about {
+  color: #098a5b;
+}
+.img-flex {
+  width: 100%;
+}
+.img-flex-read {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.myDiv-img {
+  width: 50%;
+}
+.myDiv-img img {
+  width: 90%;
+}
+.myDiv-img .shift-up {
+  position: absolute;
+  top: -0.2%;
+  width: 50%;
+}
+.myDiv-img .shift-left {
+  position: absolute;
+  width: 50%;
+  left: 50%;
+  top: 52%;
+}
+.tag-rating {
+  background-color: #313131;
+  width: 100%;
+  height: 100%;
+  padding: 2rem 0;
+}
+.testimonial-class {
+  width: 80%;
+  padding: 2rem 0;
+}
+.flex-sub-container {
+  display: flex;
+  align-items: center;
+  width: 90%;
+  flex-wrap: wrap;
+}
+.flex-container {
+  background-color: #1e1e1e;
+  height: 100%;
+  width: 250px;
+  margin-top: 10vh;
+}
+.flex-tag-inner {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  padding: 2rem 0;
+}
+.flex-tag-flag img {
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+.tag-small {
+  display: flex;
+  align-items: center;
+  width: 95%;
+}
+.tag-small small {
+  padding: 0 0.5rem;
+}
+
+.mytest-class {
+  position: relative;
+}
+.sub-container {
+  position: absolute;
+  top: -10px;
+  left: 90px;
+}
+.mytest-class .tag-name {
+  position: relative;
+  display: flex;
+  top: 60px;
+}
+.footer {
+  width: 100%;
+}
+.footer-div {
+  width: 80%;
+}
+.flex-div-footer {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+  padding: 3rem 0;
+}
+.flex-div-footer img {
+  width: 30%;
+}
+.image {
+  width: 80%;
+  padding: 7rem 0;
+}
+.size-image {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  gap: 2vh;
+  flex-wrap: wrap;
+}
+.size-image img {
+  width: 10%;
+}
+@media screen and (max-width: 1200px) {
+  .size-image img {
+    width: 30%;
+  }
+  .testimonial-class {
+    width: 80%;
+    padding: 1rem 0;
+  }
+  .flex-div-footer {
+    width: 100%;
+  }
+ 
+}
